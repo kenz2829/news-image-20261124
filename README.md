@@ -30,7 +30,7 @@ Every story happened or was first reported on Tuesday 24 November 2026. Conteste
 | 6 | Senegal back as AFCON champions — CAS upholds Senegal appeal on Tuesday; title restored after CAF stripped it in March. | Reuters |
 | 7 | Korea scrambles jets as Russia nears — South Korea orders Ulleungdo residents to shelter as Russian jets enter defence zone. | Reuters |
 | 8 | Israel kills Hamas security chief — Strike kills Brig. Gen. Naeem Abu Mohammed Nahel in Gaza; six others die. | Reuters |
-| 9 | Dow tops 50,000 first time — Dow closes at 50,019, up 0.85%, as Nasdaq falls 1.5% and the S&P slips 0.5%. | AP |
+| 9 | Dow reclaims 50,000 — Dow closes at 50,019, up 0.85%, back above 50,000 for the first time in a week; Nasdaq falls 1.5%. (NOT a first-ever close — it had closed above 50,000 on Nov 18.) | AP, MarketWatch |
 | 10 | US drone helps catch El Chapo Isidro — Mexico says US drone helped capture cartel boss in Sinaloa; Mexico will try him. | AP |
 | 11 | Solomons pick Australia as top partner — Solomon Islands names Australia primary security partner in treaty excluding China. | AP |
 | 12 | IRGC says it hit ship in Hormuz — IRGC says its navy hit a ship that went dark. | AP |
