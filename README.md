@@ -23,7 +23,7 @@ Every story happened or was first reported on Tuesday 24 November 2026. Conteste
 | # | Story | Source |
 |---|-------|--------|
 | 1 | Iran says four tankers hit mines — IRGC says four tankers hit naval mines in the Strait of Hormuz and caught fire. | AP |
-| 2 | Ukraine hits ships in two seas — Kyiv confirms drone strike on Sparta II in the Gulf of Finland; corvette hit off Libya. | Reuters |
+| 2 | Ukraine says drones hit ships — Zelenskyy says Ukraine hit Sparta II in the Gulf of Finland; Kyiv says corvette sunk off Libya. (Strikes were Sat 21–Sun 22 Nov; the Nov 24 news is Zelenskyy's confirmation.) | Reuters, Bloomberg |
 | 3 | Huawei guilty on 10 of 12 counts — US jury convicts Huawei of trade-secret theft and bank fraud; racketeering acquitted. | AP |
 | 4 | Houthi drone hits Riyadh PIF tower — Saudi says attack wounds at least 11; second hit in under a week. | Reuters |
 | 5 | NATO vows to defend space — Rutte says alliance will defend against space threats after Russian satellite reports. | BBC |
@@ -32,12 +32,12 @@ Every story happened or was first reported on Tuesday 24 November 2026. Conteste
 | 8 | Israel kills Hamas security chief — Strike kills Brig. Gen. Naeem Abu Mohammed Nahel in Gaza; six others die. | Reuters |
 | 9 | Dow reclaims 50,000 — Dow closes at 50,019, up 0.85%, back above 50,000 for the first time in a week; Nasdaq falls 1.5%. (NOT a first-ever close — it had closed above 50,000 on Nov 18.) | AP, MarketWatch |
 | 10 | US drone helps catch El Chapo Isidro — Mexico says US drone helped capture cartel boss in Sinaloa; Mexico will try him. | AP |
-| 11 | Solomons pick Australia as top partner — Solomon Islands names Australia primary security partner in treaty excluding China. | AP |
+| 11 | Australia strikes tech safety deal — Labor and Greens agree digital duty of care; fines up to 5% of global revenue. (Deal struck Tuesday 24 Nov; bill passed Wednesday.) | AP, Guardian, SMH |
 | 12 | IRGC says it hit ship in Hormuz — IRGC says its navy hit a ship that went dark. | AP |
 | 13 | Houthis 60 km from Aden — Yemen army: Houthis near Aden, poised to attack. | Reuters |
 | 14 | UK sanctions Houthis — UK freezes assets, bans travel for four officials. | Reuters |
 | 15 | Iraq takes Kurdish oilfields — Baghdad takes control of fields; Barzani objects. | Reuters |
-| 16 | Saudi strikes kill 25 in Yemen — Saudi jets hit buses in Lahj; 25 dead or missing. | Reuters |
+| 16 | Saudi strikes hit buses in Yemen — Houthis blame Saudi jets; 25 dead or missing. (Strike was Mon 23 Nov, reported Tue 24 Nov; attacker disputed by local officials.) | Houthi media, AFP |
 | 17 | Gaza meningitis alert — Ministry reports 272 cases in October, 15 deaths. | Reuters |
 | 18 | Turkish helicopter crash kills 5 — AS-532 crashes after takeoff from Eskisehir. | Reuters |
 | 19 | Haftar visits Turkey — Libyan commander meets Erdogan in Ankara. | Reuters |

@@ -273,7 +273,7 @@ PINS = [
     (8, 34.47, 31.5, 18, 10),     # Gaza
     (9, -74.01, 40.71, 0, 0),     # New York (NYSE)
     (10, -108.5, 25.57, 0, 0),    # Guasave, Sinaloa
-    (11, 159.97, -9.65, 0, 0),    # Honiara, Solomon Islands
+    (11, 149.13, -35.28, 0, 0),   # Canberra, Australia
 ]
 PIN_REGIONS = ["WORLD", "EUROPE", "AMERICAS", "MIDDLE EAST", "EUROPE",
                "AFRICA", "ASIA-PACIFIC", "MIDDLE EAST", "AMERICAS",
@@ -449,14 +449,17 @@ def draw_hero(cv, x, y, w, h, kind):
 # Reuters, AP, BBC, ISW, USA Today. ICJ Myanmar ruling (19 Nov) NOT used as a
 # Nov 24 story — the Nov 24 item is Malaysia's return plan instead. The
 # Villavicencio car bomb happened Monday night but was first reported Tuesday.
-# #11 Solomons treaty: AP dateline Nov 24 (late EST). #21 car bomb: Monday night.
+# Sparta II was hit Sat 21 Nov; the Nov 24 news is Zelenskyy's confirmation.
+# Lahj bus strike happened Mon 23 Nov, reported Tue 24 Nov; attribution contested.
+# #11 was the Solomons treaty — REPLACED: it was signed Wed 25 Nov in Canberra,
+# so #11 is now Australia's Tue 24 Nov online-safety deal (Labor-Greens agreement).
 FEATURES = [
     (1, "WORLD", "AP", "naval",
      "IRAN SAYS FOUR TANKERS HIT MINES",
      "IRGC says four tankers hit naval mines in the Strait of Hormuz and caught fire."),
     (2, "EUROPE", "Reuters", "naval",
-     "UKRAINE HITS SHIPS IN TWO SEAS",
-     "Kyiv confirms drone strike on Sparta II in the Gulf of Finland; corvette hit off Libya."),
+     "UKRAINE SAYS DRONES HIT SHIPS",
+     "Zelenskyy says Ukraine hit Sparta II in the Gulf of Finland; Kyiv says corvette sunk off Libya."),
     (3, "AMERICAS", "AP", "tech",
      "HUAWEI GUILTY ON 10 OF 12 COUNTS",
      "US jury convicts Huawei of trade-secret theft and bank fraud; racketeering acquitted."),
@@ -470,7 +473,7 @@ FEATURES = [
      "SENEGAL BACK AS AFCON CHAMPIONS",
      "CAS upholds Senegal appeal on Tuesday; title restored after CAF stripped it in March."),
     (7, "ASIA-PACIFIC", "Reuters", "tech",
-     "KOREA SCRAMBLES JETS AS RUSSIA NEARS",
+     "KOREA JETS SCRAMBLE AS RUSSIA NEARS",
      "South Korea orders Ulleungdo residents to shelter as Russian jets enter defence zone."),
     (8, "MIDDLE EAST", "Reuters", "hospital",
      "ISRAEL KILLS HAMAS SECURITY CHIEF",
@@ -480,17 +483,17 @@ FEATURES = [
      "Dow closes at 50,019, up 0.85%, back above 50,000 for the first time in a week."),
     (10, "AMERICAS", "AP", "elections",
      "US DRONE HELPS CATCH EL CHAPO ISIDRO",
-     "Mexico says US drone helped capture cartel boss in Sinaloa; Mexico will try him."),
-    (11, "OCEANIA", "AP", "climate",
-     "SOLOMONS PICK AUSTRALIA AS TOP PARTNER",
-     "Solomon Islands names Australia primary security partner in treaty excluding China."),
+     "Mexico says US drone helped capture cartel boss; Mexico will try him."),
+    (11, "OCEANIA", "AP", "tech",
+     "AUSTRALIA STRIKES TECH SAFETY DEAL",
+     "Labor and Greens agree digital duty of care; fines up to 5% of global revenue."),
 ]
 DIGEST = [
     (12, "IRGC SAYS IT HIT SHIP IN HORMUZ", "IRGC says its navy hit a ship that went dark."),
     (13, "HOUTHIS 60 KM FROM ADEN", "Yemen army: Houthis near Aden, poised to attack."),
     (14, "UK SANCTIONS HOUTHIS", "UK freezes assets, bans travel for four officials."),
     (15, "IRAQ TAKES KURDISH OILFIELDS", "Baghdad takes control of fields; Barzani objects."),
-    (16, "SAUDI STRIKES KILL 25 IN YEMEN", "Saudi jets hit buses in Lahj; 25 dead or missing."),
+    (16, "SAUDI STRIKES HIT BUSES IN YEMEN", "Houthis blame Saudi jets; 25 dead or missing."),
     (17, "GAZA MENINGITIS ALERT", "Ministry reports 272 cases in October, 15 deaths."),
     (18, "TURKISH HELICOPTER CRASH KILLS 5", "AS-532 crashes after takeoff from Eskisehir."),
     (19, "HAFTAR VISITS TURKEY", "Libyan commander meets Erdogan in Ankara."),
